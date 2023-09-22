@@ -24,5 +24,7 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
  [Provided Mock-up Dashboard]
+ ![mock up dashboard_atliq grands](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/9dd00fef-ad52-461e-8a92-6c510d4b57c5)
+
  
 
