@@ -30,7 +30,6 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![data model](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/f9c18742-ae1d-4004-9ee0-b05f2559a045)
 
 
-
 # learnt things from this project
 ----------------------------------------------------------------------------------------------------------------
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
