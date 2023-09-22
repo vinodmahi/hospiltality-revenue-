@@ -27,6 +27,8 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
  ![mock up dashboard_atliq grands](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/9dd00fef-ad52-461e-8a92-6c510d4b57c5)
 
 #Data Model
+![data model](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/f9c18742-ae1d-4004-9ee0-b05f2559a045)
+
 
  
 
