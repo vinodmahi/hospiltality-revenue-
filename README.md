@@ -1,10 +1,10 @@
 # hospiltality Analysis =Power BI
-----------------------------------------------------------------------------------------------------------------
+
 As part of the codebasics september month resume challenge, I have worked on this analysis project
-----------------------------------------------------------------------------------------------------------------
+
 
 # Problem Statment
-----------------------------------------------------------------------------------------------------------------
+
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
 Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its 
 market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands
@@ -15,7 +15,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 
 # Task List
-----------------------------------------------------------------------------------------------------------------
+
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
 You can download all relevant documents from the download section.
 
@@ -28,6 +28,11 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 #Data Model
 ![data model](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/f9c18742-ae1d-4004-9ee0-b05f2559a045)
+
+
+# Final dashboard view
+![dashboard](https://github.com/vinodmahi/hospiltality-revenue-/assets/125296138/4e18a0ef-cbac-4236-a72c-6ecc6602dd0e)
+
 
 
 # learnt things from this project
