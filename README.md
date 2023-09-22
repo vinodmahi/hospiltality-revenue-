@@ -31,7 +31,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 
 # learnt things from this project
-----------------------------------------------------------------------------------------------------------------
+
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
 By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, 
 only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, 
@@ -41,7 +41,7 @@ was achieved using bookmarks and selection. website like page navigation YouTube
 Tried using color palette and stick with that colors throughout the dashboard (Color palette link)
 
 # Some Important insights from the Dashboard
-----------------------------------------------------------------------------------------------------------------
+
 Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62,
 occupancy percentage 57 and cancellation rate as 24.4%.
